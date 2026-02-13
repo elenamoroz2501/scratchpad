@@ -593,3 +593,4 @@
 2026-02-13 19:32:30 - testing idea
 2026-02-13 19:32:38 - adjusted variable
 2026-02-13 19:32:45 - minor formatting change
+2026-02-13 19:32:52 - cleaned example
