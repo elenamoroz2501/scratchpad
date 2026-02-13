@@ -625,3 +625,4 @@
 2026-02-13 23:25:05 - minor formatting change
 2026-02-13 23:25:12 - added test case
 2026-02-13 23:25:19 - refined example
+2026-02-13 23:25:27 - simplified logic
