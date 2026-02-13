@@ -402,3 +402,4 @@
 2026-02-13 14:07:11 - modified snippet
 2026-02-13 14:07:18 - adjusted variable
 2026-02-13 14:07:25 - simplified logic
+2026-02-13 14:07:32 - refined example
