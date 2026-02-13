@@ -212,3 +212,4 @@
 2026-02-13 19:30:48 - simplified logic
 2026-02-13 19:30:55 - rewrote small block
 2026-02-13 19:31:02 - minor formatting change
+2026-02-13 19:31:10 - refined example
