@@ -363,3 +363,4 @@
 2026-02-13 09:38:21 - formatting pass
 2026-02-13 09:38:28 - formatting pass
 2026-02-13 10:08:15 - simplified logic
+2026-02-13 10:08:23 - cleaned example
