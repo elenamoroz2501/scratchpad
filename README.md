@@ -315,3 +315,4 @@
 2026-02-13 23:32:01 - minor formatting change
 2026-02-13 23:32:08 - cleaned example
 2026-02-13 23:32:16 - refined example
+2026-02-13 23:32:23 - simplified logic
