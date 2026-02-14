@@ -727,3 +727,4 @@
 2026-02-14 12:49:59 - added test case
 2026-02-14 12:50:06 - cleaned example
 2026-02-14 12:50:13 - simplified logic
+2026-02-14 12:50:20 - simplified logic
