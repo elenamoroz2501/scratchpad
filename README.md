@@ -436,3 +436,4 @@
 2026-02-15 18:47:28 - modified snippet
 2026-02-15 18:47:35 - modified snippet
 2026-02-15 18:47:58 - testing idea
+2026-02-16 08:20:53 - refined example
