@@ -94,3 +94,4 @@
 2026-02-16 23:22:35 - modified snippet
 2026-02-16 23:22:58 - modified snippet
 2026-02-16 23:23:27 - modified snippet
+2026-02-16 23:23:38 - refined example
