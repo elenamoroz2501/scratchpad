@@ -50,3 +50,4 @@
 2026-02-16 08:25:30 - modified snippet
 2026-02-16 08:26:05 - modified snippet
 2026-02-16 08:26:28 - testing idea
+2026-02-16 08:26:53 - refined example
