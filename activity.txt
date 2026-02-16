@@ -841,3 +841,4 @@
 2026-02-16 23:17:22 - modified snippet
 2026-02-16 23:17:32 - modified snippet
 2026-02-16 23:17:50 - modified snippet
+2026-02-16 23:18:48 - refined example
