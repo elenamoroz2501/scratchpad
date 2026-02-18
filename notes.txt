@@ -187,3 +187,4 @@
 2026-02-18 09:37:21 - modified snippet
 2026-02-18 09:37:31 - modified snippet
 2026-02-18 09:37:42 - modified snippet
+2026-02-18 09:38:03 - refined example
