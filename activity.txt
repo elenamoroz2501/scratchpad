@@ -1002,3 +1002,4 @@
 2026-02-20 11:13:14 - modified snippet
 2026-02-20 11:13:33 - modified snippet
 2026-02-20 11:14:02 - testing idea
+2026-02-20 11:14:19 - refined example
