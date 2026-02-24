@@ -737,3 +737,4 @@
 2026-02-24 09:56:35 - modified snippet
 2026-02-24 09:57:05 - testing idea
 2026-02-24 09:57:13 - testing idea
+2026-02-24 09:57:23 - refined example
